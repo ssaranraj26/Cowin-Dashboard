@@ -1,0 +1,9 @@
+.chart-container {
+  background-color: #1c1c2b;
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

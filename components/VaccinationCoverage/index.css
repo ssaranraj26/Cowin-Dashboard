@@ -1,0 +1,17 @@
+.chart-container {
+  background-color: #1c1c2b;
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow-x: auto;
+}
+.vaccination-text {
+  margin-bottom: 2rem;
+  align-self: flex-start;
+  color: #94a3b8;
+  font-weight: 400;
+  font-size: 2rem;
+}
